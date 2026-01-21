@@ -1,3 +1,4 @@
+<img width="568" height="414" alt="ad6" src="https://github.com/user-attachments/assets/fb885ae1-fa89-475f-b985-5937468d5a40" />
 Weather Prediction Using Recurrent Neural Networks
 Project Description
 
